@@ -13,15 +13,13 @@ simple nodeJS API REST application
 goal: CRUD - on modules Users, Task
 
 ### php web interface ###
+basic run configurations :
+  * application/config/config.php
+    $config['base_url'] = 'http://MYHOST/MYFOLDER'; --- URL CONFIGURATION
+  
 (under development) simple php + codeigniter interface
  - - Login from API
  - - Read Update -> task
  - - Read -> User
  
  goal: CRUD - on modules Users, Task
-
-
-
-
-
-
